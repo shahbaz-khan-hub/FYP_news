@@ -1,0 +1,42 @@
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
+certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+cryptography @ file:///C:/b/abs_e8cnom_zw_/croot/cryptography_1702071486468/work
+cssselect==1.2.0
+Django==4.2.7
+dnspython==2.4.2
+feedfinder2==0.0.4
+feedparser==6.0.11
+filelock==3.13.1
+idna @ file:///C:/ci_311/idna_1676424932545/work
+jieba3k==0.35.1
+joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
+lxml==4.9.3
+newspaper3k==0.2.8
+nltk @ file:///C:/b/abs_a638z6l1z0/croot/nltk_1688114186909/work
+Pillow==10.1.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pymongo==4.6.1
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.8.2
+PyYAML==6.0.1
+regex @ file:///C:/b/abs_d5e2e5uqmr/croot/regex_1696515472506/work
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+requests-file==1.5.1
+sgmllib3k==1.0.0
+six==1.16.0
+soupsieve==2.5
+sqlparse==0.4.4
+textblob==0.15.3
+tinysegmenter==0.3
+tldextract==5.1.1
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+tzdata==2023.3
+urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
